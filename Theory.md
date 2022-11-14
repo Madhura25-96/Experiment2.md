@@ -47,7 +47,7 @@ $G  = \begin{bmatrix} 1 & 1 & 1\end{bmatrix}$ is a generator matrix.
 
 - Example-2: For $(3,2)$ SPC code, the messages and the
     corresponding codewords are given below:
-    
+    ![alt text](https://github.com/Madhura25-96/Experiment2.md/blob/main/exp2imagge.png)
     
 
     These codeword can be written as 
